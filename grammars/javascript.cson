@@ -1248,6 +1248,16 @@
         'include': 'text.html.handlebars'
       }
     ]
+  },
+  {
+    'begin': 'css\`$'
+    'end' : '`'
+    'contentName': 'text.css.scss'
+    'patterns': [
+      {
+        'include': 'text.css.scss'
+      }
+    ]
   }
 ]
 'repository':
