@@ -1252,10 +1252,10 @@
   {
     'begin': 'css\`$'
     'end' : '`'
-    'contentName': 'text.css.scss'
+    'contentName': 'source.css.scss'
     'patterns': [
       {
-        'include': 'text.css.scss'
+        'include': 'source.css.scss'
       }
     ]
   }
