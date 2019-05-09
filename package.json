@@ -1,7 +1,7 @@
 {
-  "name": "language-javascript",
+  "name": "language-javascript-with-hbs",
   "version": "0.130.0",
-  "description": "JavaScript language support in Atom",
+  "description": "JavaScript language support in Atom with support for HBS",
   "engines": {
     "atom": "*",
     "node": "*"
@@ -10,11 +10,11 @@
   "homepage": "http://atom.github.io/language-javascript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-javascript.git"
+    "url": "https://github.com/scottmessinger/language-javascript-hbs.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-javascript/issues"
+    "url": "https://github.com/scottmessinger/language-javascript-hbs/issues"
   },
   "keywords": [
     "tree-sitter"
